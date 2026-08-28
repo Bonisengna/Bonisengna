@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno 👋
+# Oi, eu sou o Bruno 👋
 
 Corretor de imóveis migrando para tecnologia — 
 unindo experiência real de mercado imobiliário com automação e IA aplicada.
