@@ -39,4 +39,6 @@ software — aplicando cada novo conceito direto nos projetos da ArIA.
 
 ## 📫 Contato
 
-[https://www.linkedin.com/in/bruno-dos-santos-140b9b379/]
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dos-santos-140b9b379/)
