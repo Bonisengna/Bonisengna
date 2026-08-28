@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno 👋
 
-Corretor de imóveis com CRECI ativo migrando para tecnologia — 
+Corretor de imóveis migrando para tecnologia — 
 unindo experiência real de mercado imobiliário com automação e IA aplicada.
 
 ## 🚀 O que eu construo
